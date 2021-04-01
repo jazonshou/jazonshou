@@ -7,4 +7,4 @@ If you just read the paragraph above, I know exactly what your thinking: "What a
 
 Thanks for listening to my Ted Talk and thanks for preserving your laptop. 
 
-### Next Up: Why tf my username is Yessir and my repo name is Sir Yes Sir
+### Next Up: Why tf my username is Yessir and the repo name Sir Yes Sir
