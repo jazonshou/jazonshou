@@ -3,11 +3,3 @@ Have you ever wondered why you're always so sad? Well, sometimes I ask myself th
 
 
 If you just read the paragraph above, I know exactly what your thinking: "What an inspirational guy huh?". Jk, haha, what a funny joke, I know that your're probably thinking the exact opposite; trust me, that's perfectly normal. But before you direct any curses towards the screen, think about the poor guy that had spent more than 30 minutes of precious homework time, taking time to write something ~~vaguely inspirational~~ ~~stupid~~ utterly useless, just so that he could convince himself that he was not procrastinating. 
-
-
-Now, if you read more than a single word of this stupid rant, hopefully you now feel more inspired after seeing how hopeless I was. 
-
-
-Thanks for listening to my Ted Talk and thanks for preserving your laptop. 
-
-### Next Up: Why tf my username is Yessir and the repo name Sir Yes Sir
