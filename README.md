@@ -20,6 +20,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=jazonshou&count_private=true&theme=github_dark&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazonshou&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&theme=github_dark" />
-</a>
